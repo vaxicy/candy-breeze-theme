@@ -1,0 +1,4 @@
+.vscode/**
+.gitignore
+assets/logo-prompt.md
+*.vsix

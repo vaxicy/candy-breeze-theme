@@ -1,0 +1,35 @@
+{
+  "name": "candy-breeze-theme",
+  "displayName": "Candy Breeze Theme",
+  "description": "A sweet, airy pastel theme in candy pink, ice blue, mint and butter yellow. Includes light and dark variants.",
+  "version": "1.0.0",
+  "publisher": "lilinhuang",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "pastel",
+    "candy",
+    "pink",
+    "light",
+    "dark"
+  ],
+  "icon": "assets/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Candy Breeze Light",
+        "uiTheme": "vs",
+        "path": "./themes/candy-breeze-light-color-theme.json"
+      },
+      {
+        "label": "Candy Breeze Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/candy-breeze-dark-color-theme.json"
+      }
+    ]
+  }
+}

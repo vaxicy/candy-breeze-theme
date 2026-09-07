@@ -1,0 +1,4 @@
+*.vsix
+.codebuddy/
+node_modules/
+.vscode-test/

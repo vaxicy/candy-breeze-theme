@@ -2,7 +2,7 @@
   "name": "candy-breeze-theme",
   "displayName": "Candy Breeze Theme",
   "description": "A sweet, airy pastel theme in candy pink, ice blue, mint and butter yellow. Includes light and dark variants.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "lilinhuang",
   "engines": {
     "vscode": "^1.80.0"

@@ -36,11 +36,21 @@ A sweet, airy pastel VS Code theme with **Candy Breeze Light** and **Candy Breez
 | ▫️ | 浅色背景 / Light BG | `#FFF8FC` |
 | ▪️ | 深色背景 / Dark BG | `#252330` |
 
+## 🖼 预览 / Preview
+
+<p align="center">
+  <img src="store-assets/screenshots/en/screenshot-light.png" alt="Candy Breeze Light screenshot" width="720">
+</p>
+
+<p align="center">
+  <img src="store-assets/screenshots/en/screenshot-dark.png" alt="Candy Breeze Dark screenshot" width="720">
+</p>
+
 ## 📦 安装 / Installation
 
 **方式一 · 从 VSIX 安装 / From VSIX**
 1. 打开命令面板（`Ctrl+Shift+P`），运行 `Extensions: Install from VSIX...`。
-2. 选择本项目下的 `candy-breeze-theme-1.0.0.vsix`。
+2. 选择本项目下的 `candy-breeze-theme-1.0.1.vsix`。
 3. 按 `Ctrl+K Ctrl+T`，搜索并选择 `Candy Breeze Light` 或 `Candy Breeze Dark`。
 
 **方式二 · 从 Marketplace 安装 / From Marketplace**

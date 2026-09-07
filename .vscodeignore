@@ -2,3 +2,6 @@
 .gitignore
 assets/logo-prompt.md
 *.vsix
+
+.codebuddy/**
+AGENTS.md

@@ -18,6 +18,11 @@
     "dark"
   ],
   "icon": "assets/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaxicy/candy-breeze-theme.git"
+  },
+  "homepage": "https://github.com/vaxicy/candy-breeze-theme#readme",
   "contributes": {
     "themes": [
       {
